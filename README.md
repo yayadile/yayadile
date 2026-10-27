@@ -17,7 +17,7 @@
 
 <h2 align="center"><em>About me</em></h2>
 
-<img src="https://media.giphy.com/media/kZqbBT64ECtjy/giphy.gif" width="250" align="right" style="margin-left: 20px;" />
+<img src="[https://media.giphy.com/media/nPE5YuVjEma771juHw/giphy.gif]" width="250" align="right" style="margin-left: 20px;" />
 
 
 <br/>
