@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6d9&height=180&section=header&text=Hi,%20I'm%20Wawan%20💖&fontSize=42&fontColor=be185d" />
+</div>
 
-<!--
-**yayadile/yayadile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+### 🌸 About Me
+⠀_ _
+⠀　⠀  　⠀ Wann/Yaya   ⋮  she/they　　 　  
+
+⠀　　𐙚　　Illustrator & Dev 　 ₊  ◞　
+　˙　　˳　　⁺　　i'm interested in creative tech!
+
+⠀⢀⠤⣀⣀⣴⣶⣔⢂⠀⠀
+⠀⠸⠀⠀⠀⠻⠿⢿⣿⡇⠀
+⢀⣸⠀⡀⠀⠀⠀⢠⠀⣗⡂
+⠀⢚⣄⡁⠀⠛⠀⢀⡰⢷
+
+---
+
+### 🌸 Tech Stack
+
+**💻 Languages**
+
+
