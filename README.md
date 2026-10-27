@@ -15,11 +15,19 @@
 ⠀　　𐙚　　Illustrator & Dev 　 ₊  ◞　
 　˙　　˳　　⁺　　i'm interested in creative tech!
 
-⠀⢀⠤⣀⣀⣴⣶⣔⢂⠀⠀
-⠀⠸⠀⠀⠀⠻⠿⢿⣿⡇⠀
+<pre>
+⢀⠤⣀⣀⣴⣶⣔⢂⠀⠀
+⠸⠀⠀⠀⠻⠿⢿⣿⡇⠀
 ⢀⣸⠀⡀⠀⠀⠀⢠⠀⣗⡂
 ⠀⢚⣄⡁⠀⠛⠀⢀⡰⢷
+</pre>
 
+<div align="center">
+
+<a href="https://linkedin.com/in/username-kamu"><img src="https://img.shields.io/badge/-LINKEDIN-EC4899?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/username-kamu"><img src="https://img.shields.io/badge/-INSTAGRAM-EC4899?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
+</div>
 ---
 
 ### 🌸 Tech Stack
