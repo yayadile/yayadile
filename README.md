@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=200&section=header" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&width=435&center=true&vCenter=true&lines=Illustrator+%26+Dev;Interested+in+creative+tech" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&width=435&center=true&vCenter=true&lines=Welcome+to+Yaya's+profile!!!!;Illustrator+%26+Dev;Interested+in+creative+tech!" />
 </p>
 
 <p align="center">
