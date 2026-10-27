@@ -63,8 +63,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yayadile&bg_color=fff0f5&color=ec4899&line=ff69b4&point=ff69b4&area=true&hide_border=true" width="100%" />
-
 <img src="https://github-readme-stats.vercel.app/api?username=yayadile&show_icons=true&bg_color=fff0f5&title_color=ec4899&icon_color=db2777&text_color=831843&border_color=ffb6d9" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yayadile&layout=compact&bg_color=fff0f5&title_color=ec4899&text_color=831843&border_color=ffb6d9" />
 
