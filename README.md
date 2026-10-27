@@ -4,7 +4,32 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&width=435&center=true&vCenter=true&lines=Welcome+to+Yaya's+profile!!!!;Illustrator+%26+Dev;Interested+in+creative+tech!" />
 </p>
 
-<p align="center">
+
+
+<br>
+
+<h2 align="center"><em>Who am i?</em></h2>
+
+<img src="https://media.giphy.com/media/nPE5YuVjEma771juHw/giphy.gif" width="250" align="right" style="margin-left: 20px;" />
+
+
+<br/>
+<br/>
+
+｡. ﾟ ꒰ঌ ✦ ໒꒱ ๋࣭ ⭑
+₊˚⊹ ♡ Wann/Yaya
+♱ ⭒ she/they / ✧ Illustrator & Dev / ✧ Semarang, ID
+
+<br/>
+
+<p>
+  Hello There! <em><b>I'm Wann/Yaya</b></em>, a 3rd year Informatics student at Politeknik Negeri Semarang. I enjoy learning new technologies to new opportunities. I love building games & contributing to creative media projects. Now I'm working on some little and fun projects to put in practice my knowledge about Flutter, Laravel, Next.js, Unity, and more.
+</p>
+
+
+<br/>
+<h2 align="center">
+  <p align="center">
   <a href="LINK_LINKEDIN_KAMU" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-EC4899?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -12,33 +37,7 @@
     <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
-<br>
-
-<h2 align="center"><em>About me</em></h2>
-
-<img src="https://media.giphy.com/media/nPE5YuVjEma771juHw/giphy.gif" width="250" align="right" style="margin-left: 20px;" />
-
-
-<br/>
-
-<p>
-  Hello There! <em><b>I'm Wann/Yaya</b></em>, an Informatics student at Semarang State Polytechnic. I enjoy learning new technologies and creative tech. I love to build games, illustrations, and AR experiences. Now I'm working on some little and fun projects to put in practice my knowledge about Flutter, Laravel, Next.js, Unity, and more.
-</p>
-
-<br/>
-
-<p align="center">
-   🎓 <em><b>Studying at the Semarang State Polytechnic</b></em><br/>
-   🎨 <em><b>Illustrator & Dev, interested in creative tech</b></em><br/>
-   🎮 <em><b>Building ASTORYA, a marker-based AR story</b></em><br/>
-   🕵️ <em><b>Building INVESTIGATE IT!, a 2D mystery game</b></em><br/>
-   ✨ <em><b>Chief of Research & Development at UKM PECC</b></em><br/>
-</p>
-
-<br/>
-<br/>
-
+</h2>
 <h2 align="center"><em>Technologies</em></h2>
 
 <p align="center">
