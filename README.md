@@ -30,10 +30,10 @@
 <br/>
 <h2 align="center">
   <p align="center">
-  <a href="LINK_LINKEDIN_KAMU" target="_blank">
+  <a href="https://www.linkedin.com/in/lawan-tirani-7249b5237/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-EC4899?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="LINK_INSTAGRAM_KAMU" target="_blank">
+  <a href="https://www.instagram.com/uohwal/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
