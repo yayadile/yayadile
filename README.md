@@ -65,6 +65,16 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yayadile&layout=compact&bg_color=fff0f5&title_color=ec4899&text_color=831843&border_color=ffb6d9" />
 
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=yayadile&bg_color=fff0f5&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/6366f1/yayadile" alt="Contribution graph" width="90%" />
+</p>
+
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ec4899&height=120&section=footer" width="100%" />
